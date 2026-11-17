@@ -2,7 +2,7 @@
 
 A relational database for a small baking supply shop. It tracks customers, products and inventory, suppliers, orders, and the individual items on each order. Built for CIS 344 (Database Design) at Lehman College, Spring 2026.
 
-![Chen ER diagram](uml_diagram.pdf)
+![uml_diagram](uml_diagram.pdf)
 
 ## What it covers
 - **Customers:** contact details and join date.
